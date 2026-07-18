@@ -41,9 +41,9 @@ Type one topic. The agent writes the story beats, renders each beat as a torn-pa
 
 ## 🎥 Demo
 
-<video src="https://raw.githubusercontent.com/Anil-matcha/vox-ai-motion-graphics-generator/main/assets/demo.mp4" controls muted loop width="100%"></video>
+https://github.com/user-attachments/assets/3db826d1-3271-4e8a-b4d0-a843013e67c7
 
-▶️ **[Watch the demo](https://raw.githubusercontent.com/Anil-matcha/vox-ai-motion-graphics-generator/main/assets/demo.mp4)** — one topic in, a fully narrated & captioned Vox-style collage video out.
+> One topic in, a fully narrated & captioned Vox-style collage video out. ([download the demo](https://raw.githubusercontent.com/Anil-matcha/vox-ai-motion-graphics-generator/main/assets/demo.mp4))
 
 > *"Make me a 15-second Vox-style collage video on the history of coffee."* → a styled `final.mp4`, fully narrated and captioned.
 
