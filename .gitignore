@@ -28,3 +28,6 @@ Thumbs.db
 .env
 .secrets
 secrets.py
+
+# Demo asset (tracked despite *.mp4 rule above)
+!assets/demo.mp4
